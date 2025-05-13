@@ -1,1 +1,4 @@
-
+easyocr
+pyautogui
+cv2
+numpy
